@@ -50,4 +50,4 @@ Presentations
   
 Service and leadership
 ======
-* Currently 
+* Currently student chief of the lab.
