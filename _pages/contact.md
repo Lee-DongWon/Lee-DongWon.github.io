@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact Info"
 permalink: /contact/
 author_profile: true
 ---
-
-Contact Info
-======
 
 Email
 ===
