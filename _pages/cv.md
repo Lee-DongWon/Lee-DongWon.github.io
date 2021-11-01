@@ -15,29 +15,22 @@ Education
 * M.S. in Computer Science and Engineering, Seoul National University, Feburary 2023 (expected)
 * Ph.D in Computer Science and Engineering, Seoul National University, 2026 (expected)
 
-
-
-
-
-
-
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2020: Undergraduate Research Student
+  * Sungkyunkwan University
+  * Duties included: Research about privacy-preserving graphical security model
+  * Supervisor: Professor Kim (https://seclab.skku.edu/people/hyoungshick-kim/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Intern
+  * CSIRO Data 61, Austrailia
+  * Duties included: Support research, collecting data
+  * Supervisor: Professor Kim (https://seclab.skku.edu/people/hyoungshick-kim/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Skill 1 
+* Skill 2 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -49,18 +42,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently 
