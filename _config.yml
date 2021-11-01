@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dongwon Lee / Personal Webpage"
+title                    : "Dongwon Lee"
 title_separator          : "-"
 name                     : &name "Dongwon Lee"
 description              : &description "Personal webpage for academic"
