@@ -27,6 +27,7 @@ Work experience
   * Duties included: Support research, collecting data
   * Supervisor: Professor Kim (https://seclab.skku.edu/people/hyoungshick-kim/)
   
+<!--
 Skills
 ======
 * Skill 1 
@@ -35,6 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
