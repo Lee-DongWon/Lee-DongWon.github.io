@@ -1,7 +1,7 @@
 ---
 title: "A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup"
 collection: publications
-permalink: /publication/2021-10-24-MGHE
+permalink: /publication/MGHE
 excerpt: 'This paper is about the improved multi-key homomoprhic encryption scheme.'
 date: 2021-10-24
 venue: 'not accepted (eprint)'
