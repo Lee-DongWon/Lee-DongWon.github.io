@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/PPGSM
 excerpt: 'This paper is about the privacy-preserving graphical security model (PP-GSM).'
 date: 2023-01-19
-venue: 'accepted (FGCS23)'
+venue: 'Future Generation Compuster Systems (FGCS)'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167739X22004459'
 citation: ''
 ---
