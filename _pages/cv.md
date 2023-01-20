@@ -44,12 +44,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Presentations
 ======
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
 * Currently student chief of the lab.
