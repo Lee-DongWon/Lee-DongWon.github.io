@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* KMS(Korea Mathematical Society) Spring Meeting 2022
+* Korea Mathematical Society (KMS) Spring Meeting 2022
   * About "Asymptotically Faster Multi-Key Homomorphic Encryption from Homomorphic Gadget Decomposition"
 
 * The 30th ACM Conference on Computer and Communications Security (CCS) 2023

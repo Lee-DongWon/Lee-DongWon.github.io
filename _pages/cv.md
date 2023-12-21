@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [Download CV](/home/tunar/Lee-DongWon.github.io/files/CV_LeeDongwon.pdf)
+* [Download CV](https://github.com/Lee-DongWon/Lee-DongWon.github.io/tree/master/files/CV_LeeDongwon.pdf)
 
 Education
 ======
@@ -34,17 +34,14 @@ Position
   * Duties included: M.S sutdent -> Ph.D student
   * Student chief of the lab (2021-2022).
 <!--
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Presentations
 ======
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-
