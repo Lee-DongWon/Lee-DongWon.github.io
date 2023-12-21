@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+=====
+* [Download CV](/home/tunar/Lee-DongWon.github.io/files/CV_LeeDongwon.pdf)
+
 Education
 ======
 * B.S. in Mathematics / Computer Science, Sungkyunkwan University, Feburary 2021
 * M.S. in Computer Science and Engineering, Seoul National University, Feburary 2023
 * Ph.D in Computer Science and Engineering, Seoul National University, 2026 (expected)
 
-Work experience
+Position
 ======
 * 2019 - 2020: Undergraduate Research Student
   * Sungkyunkwan University
@@ -27,16 +31,11 @@ Work experience
   * Duties included: Support research, collecting data
   * Supervisor: Professor Kim (https://seclab.skku.edu/people/hyoungshick-kim/)
   
+* Fall 2021: Graduate Student
+  * Seoul National University
+  * Duties included: M.S sutdent -> Ph.D student
+  * Student chief of the lab (2021-2022).
 <!--
-Skills
-======
-* Skill 1 
-* Skill 2 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
 
 Publications
 ======
@@ -49,7 +48,5 @@ Presentations
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
 
-Service and leadership
-======
-* Student chief of the lab (2021-2022).
