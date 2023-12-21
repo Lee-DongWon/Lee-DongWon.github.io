@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-=====
 * [Download CV](/home/tunar/Lee-DongWon.github.io/files/CV_LeeDongwon.pdf)
 
 Education
