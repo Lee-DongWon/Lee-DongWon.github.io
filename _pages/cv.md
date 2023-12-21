@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [Download CV](https://github.com/Lee-DongWon/Lee-DongWon.github.io/files/CV_LeeDongwon.pdf)
+* [Download CV](https://lee-dongwon.github.io/files/CV_LeeDongwon.pdf)
 
 Education
 ======
