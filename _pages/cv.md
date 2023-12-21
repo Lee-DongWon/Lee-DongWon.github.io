@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics / Computer Science, Sungkyunkwan University, Feburary 2021
-* M.S. in Computer Science and Engineering, Seoul National University, Feburary 2023 (expected)
+* M.S. in Computer Science and Engineering, Seoul National University, Feburary 2023
 * Ph.D in Computer Science and Engineering, Seoul National University, 2026 (expected)
 
 Work experience
@@ -44,14 +44,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--
 Presentations
 ======
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
--->
 
 Service and leadership
 ======
-* Currently student chief of the lab.
+* Student chief of the lab (2021-2022).
