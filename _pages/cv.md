@@ -32,4 +32,4 @@ Position
 * Fall 2021: Graduate Student
   * Seoul National University
   * Duties included: M.S sutdent -> Ph.D student
-  * Student chief of the lab (2021-2022).
+  * Student chief of the lab (2021-2022)
