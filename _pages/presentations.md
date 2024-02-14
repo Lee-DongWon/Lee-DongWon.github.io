@@ -14,4 +14,4 @@ author_profile: true
   * About "Asymptotically Faster Multi-Key Homomorphic Encryption from Homomorphic Gadget Decomposition"
  
 * The 22nd International Conference on Applied Cryptography and Network Security (ACNS) 2024
-  * About "A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup"
+  * About "A General Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Key-Aggregation"

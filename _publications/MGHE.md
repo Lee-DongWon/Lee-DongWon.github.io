@@ -1,5 +1,5 @@
 ---
-title: "A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup"
+title: "A General Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Key-Aggregation"
 collection: publications
 permalink: /publication/MGHE
 excerpt: 'This paper is about a new HE primitive, called Multi-Group HE (MGHE) providing integration between MPHE and MKHE which are HE variants for multiple parties'
